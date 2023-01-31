@@ -1,0 +1,107 @@
+   0 ls
+   1 nano readme.txt 
+   2 whoami
+   3 pwd
+   4 ls -la
+   5 cd /
+   6 cd ..
+   7 pwd
+   8 cd ~
+   9 pwd
+  10 cd /
+  11 ls
+  12 clr
+  13 clear
+  14 pwd
+  15 cd \
+  16 exit
+  17 quit
+  18 pwd
+  19 cd ~
+  20 pwd
+  21 ls
+  22 cd ..
+  23 ls
+  24 cd home/
+  25 cd us
+  26 mkdir user
+  27 cd user/
+  28 pwd
+  29 ls
+  30 mkdir user1
+  31 cd user1/
+  32 touch file1.txt
+  33 ls
+  34 ls -ls
+  35 cd
+  36 pwd
+  37 tree
+  38 ls /home/user/user1/
+  39 ls
+  40 cd /home/user/user1/
+  41 cd ..
+  42 mkdir --help
+  43 move --help
+  44 mv --help
+  45 mv user1/ task1/
+  46 ls
+  47 cd task1/
+  48 ls
+  49 cd
+  50 tree
+  51 tree /home
+  52 ls -d /home/
+  53 ls -R /home/
+  54 зцв
+  55 pwd
+  56 cd /home/
+  57 mkdir user2
+  58 ls
+  59 cd user
+  60 mkdir task2
+  61 ls
+  62 cd ../user2/
+  63 mkdir task2
+  64 cd task2/
+  65 touch file2.txt
+  66 ls
+  67 cd /opt
+  68 ls
+  69 mkdir /home/user3/task3
+  70 mkdir /home/user3/
+  71 mkdir /home/user3/task3
+  72 cd /home/user3/task3
+  73 ls
+  74 cd /opt/
+  75 touch /home/user3/task3/file3.txt
+  76 tree /home/
+  77 mv /home/user/ /home/user1/
+  78 tree /home/
+  79 cd
+  80 mkdir 1/2/3/4
+  81 mkdir -p 1/2/3/4
+  82 tree
+  83 mkdir -m
+  84 mkdir -p /home/user4/task4
+  85 tree /home/
+  86 touch /home/user4/task4/file4.txt
+  87 tree /home/
+  88 mkdir /home/user5/task5 && touch /home/user5/task5/file5.txt
+  89 mkdir -p /home/user5/task5 && touch /home/user5/task5/file5.txt
+  90 tree /home/
+  91 date 
+  92 зцв
+  93 pwd
+  94 mkdir /opt/123 /tmp/123 /home/123 && /opt/123/1.txt
+  95 tree opt
+  96 tree /opt
+  97 touch /opt/123/1.txt
+  98 tee
+  99 tree/h
+ 100 tree /home/
+ 101 tree /opt/
+ 102 tree /home/
+ 103 rm -rf /home/user4/
+ 104 tree /home/
+ 105 history
+ 106 history > hist.txt
