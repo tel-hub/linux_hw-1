@@ -9,5 +9,4 @@
    8 cp /tmp/adam.txt /home/humans/
    9 mv /opt/eve.txt /home/humans/
   10 tree /home/
-  11 export_file
-  12 history > hist.txt
+  11 history > hist.txt
